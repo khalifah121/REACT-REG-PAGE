@@ -2,7 +2,7 @@
     display: flex;
     flex-direction: column;
     margin: auto;
-    width: 450px;
+    width: 390px;
     margin-top: 50px;
     background: #fff;
     padding-bottom: 30px;
@@ -42,7 +42,7 @@
     display: flex;
     align-items: center;
     margin: auto;
-    width: 420px;
+    width: 350px;
     height: 50px;
     background: #eaeaea;
     border-radius: 6px;
